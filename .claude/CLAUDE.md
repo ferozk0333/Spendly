@@ -91,3 +91,4 @@ Browser → `app.py` (Flask route) → `database/db.py` (SQLite via `get_db()`) 
 | pytest-flask | 1.3.0 | Flask test client fixtures |
 
 No ORM — raw SQLite via Python's built-in `sqlite3` module.
+ 
